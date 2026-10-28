@@ -30,6 +30,8 @@ export default function Detail() {
       <dl>
         <dt>Kategori</dt>
         <dd>{item.kategori}</dd>
+        <dt>Kode Alat</dt>
+        <dd>{item.kodeAlat}</dd>
         <dt>Jumlah</dt>
         <dd>{item.jumlah}</dd>
         <dt>Kondisi</dt>
