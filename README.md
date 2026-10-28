@@ -69,7 +69,7 @@ Nama: Dina Olivia
 NIM: 124140213
 Kelas: RA
 Tema: Inventaris Laboratorium
-Deployment: https://USERNAME.github.io/uts-paw/
+Deployment: https://dina124140213-byte.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
