@@ -1,10 +1,83 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Kabel Straight",
+    "kategori": "Kabel Jaringan",
+    "kodeAlat": "KBJ-001",
+    "jumlah": 20,
+    "kondisi": "baik"
+  },
+  {
+    "id": "2",
+    "judul": "Mikrofon",
+    "kategori": "Perangkat input",
+    "kodeAlat": "PI-001",
+    "jumlah": 3,
+    "kondisi": "rusak"
+  },
+  {
+    "id": "3",
+    "judul": "Monitor",
+    "kategori": "Perangkat output",
+    "kodeAlat": "PO-001",
+    "jumlah": 30,
+    "kondisi": "perlu sevis"
+  },
+  {
+    "id": "4",
+    "judul": "Meja",
+    "kategori": "Perabot",
+    "kodeAlat": "PR-001",
+    "jumlah": 35,
+    "kondisi": "baik"
+  },
+  {
+    "id": "5",
+    "judul": "Kursi",
+    "kategori": "Perabot",
+    "kodeAlat": "PR-002",
+    "jumlah": 35,
+    "kondisi": "rusak"
+  },
+  {
+    "id": "6",
+    "judul": "Proyektor",
+    "kategori": "Perangkat output",
+    "kodeAlat": "PO-002",
+    "jumlah": 2,
+    "kondisi": "baik"
+  },
+  {
+    "id": "7",
+    "judul": "Kabel Fiber Optik",
+    "kategori": "Kabel Jaringan",
+    "kodeAlat": "KBJ-002",
+    "jumlah": 5,
+    "kondisi": "baik"
+  },
+  {
+    "id": "8",
+    "judul": "Keyboard",
+    "kategori": "Perangkat input",
+    "kodeAlat": "PI-002",
+    "jumlah": 30,
+    "kondisi": "perlu sevis"
+  },
+  {
+    "id": "9",
+    "judul": "Kabel Crossover",
+    "kategori": "Kabel Jaringan",
+    "kodeAlat": "KBJ-003",
+    "jumlah": 30,
+    "kondisi": "baik"
+  },
+  {
+    "id": "10",
+    "judul": "Mouse",
+    "kategori": "Perangkat input",
+    "kodeAlat": "PI-003",
+    "jumlah": 30,
+    "kondisi": "baik"
   }
+  
 ]
