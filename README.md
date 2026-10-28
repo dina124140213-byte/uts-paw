@@ -65,7 +65,7 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 ```markdown
 # Nama Aplikasi
 
-Nama: Dina Oliva
+Nama: Dina Olivia
 NIM: 124140213
 Kelas: RA
 Tema: Inventaris Laboratorium
