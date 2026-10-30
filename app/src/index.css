@@ -46,6 +46,11 @@ main {
 }
 .btn-beranda:hover{
   background: #f0f0f0;
-
+}
+.beranda-card{
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 24px 28px;
+  max-width: 420px;
 
 }
