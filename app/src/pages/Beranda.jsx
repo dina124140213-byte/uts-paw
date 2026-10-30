@@ -17,7 +17,7 @@ export default function Beranda() {
           Ada {items.length} alat dalam {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua alat</Link>
+      <Link to="/koleksi" className="btn btn-koleksi">Lihat semua alat</Link>
     </section>
   )
 }
