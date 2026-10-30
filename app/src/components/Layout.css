@@ -6,6 +6,8 @@
 
 .kepala {
   display: flex;
+  background: #ebddc5;
+  color: #2e4365;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
@@ -18,6 +20,8 @@
 
 .menu a.active {
   font-weight: 600;
+  color:#2e4365;
+  text-decoration: none;
 }
 
 .isi {
@@ -30,9 +34,11 @@
 
 .kaki {
   padding: 1rem 1.5rem;
-  border-top: 1px solid #dcdcdc;
-  color: #57606a;
+  background: #ebddc5;
+  border-top: 1px solid #fff8f8;
+  color: #2e4365;
   font-size: 0.9rem;
+  align-items : center;
 }
 
 .aksi {
